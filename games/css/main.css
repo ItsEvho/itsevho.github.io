@@ -1,0 +1,150 @@
+body {
+  background-image: url(http://i.imgur.com/UTOiOuP.jpg)!important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+html {
+  height: 100%;
+}
+.header a {
+  display:inline-block;
+  margin:0 auto;
+}
+
+.header {
+  padding-top: 7vh;
+}
+
+.header li {
+  margin: 0 auto;
+  text-align: center;
+  max-width: 300px;
+  max-height: 300px;
+  list-style: none;
+}
+
+.header li img {
+  max-width: 100%;
+}
+
+.links a {
+  margin: 5px;
+  position: relative;
+  bottom: 0px;
+}
+.links {
+  text-align: center;
+}
+.links a {
+  display: inline-block;
+  color: #FFF;
+  text-decoration: none;
+  font-family: 'Cinzel', serif !important;
+  font-size: 14pt !important;
+  transition: all .25s ease-in-out;
+  -moz-transition: all .25s ease-in-out;
+  -webkit-transition: all .25s ease-in-out;
+}
+.links a:hover {
+  background: red;
+  bottom: 6px;
+}
+.links a p {
+  background: rgba(0, 0, 0, 0.63);
+  margin: 0px;
+  padding: 10px;
+  position: relative;
+}
+.links .icon {
+  font-size: 35pt;
+  padding: 20px 40px;
+  background: rgba(174, 57, 57, 0.65);
+}
+#page-footer {
+  display: none !important;
+}
+#enjin-tray {
+  display: none !important;
+}
+#enjin-bar {
+  display: none;
+}
+#enjin-tray-chatchannels {
+  display:none;
+}
+
+footer li {
+  display: inline;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+footer ul {
+  list-style: none;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+footer li a {
+
+}
+
+footer li a {
+  padding: 10px;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 9px;
+  margin-left: 350px;
+  letter-spacing: 4px;
+  text-indent: 4px;
+}
+
+footer a {
+  text-decoration: none !important;
+  text-align: center;
+  transition: color 0.3s;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+a {
+  background-color: transparent;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+footer {
+  padding: 50px;
+  padding-bottom: 50px;
+  padding-bottom: 950px;
+  position: absolute;
+  right: 0;
+  bottom: -950px;
+  left: 0;
+  background-color: #000000;
+  opacity: 0.6;
+}
+
+footer img {
+  width: 125px;
+  margin-top: 20px;
+  margin-left: 845px;
+  padding: 0;
+  vertical-align: middle;
+  display: inline-block;
+}
